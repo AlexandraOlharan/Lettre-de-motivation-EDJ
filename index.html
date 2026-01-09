@@ -263,7 +263,7 @@
 
 
 <script>
-  const titles = document.querySelectorAll(".accordion-title");
+  const titles = document.querySelectorAll(".accordeon-titre");
 
   titles.forEach(title => {
     title.addEventListener("click", () => {
@@ -279,7 +279,7 @@
   chevrons.forEach(chevron => {
     chevron.addEventListener("click", (e) => {
       e.stopPropagation(); // empêche le clic sur le h3
-      const item = chevron.closest(".accordion-item");
+      const item = chevron.closest(".accordeon-article");
       item.classList.toggle("active");
     });
   });
