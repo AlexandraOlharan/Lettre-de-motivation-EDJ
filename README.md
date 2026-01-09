@@ -11,6 +11,7 @@ Je vous présente ma lettre de motivation au format site web. Crée par mes soin
 
 ## Accedez à la lettre
 La lettre est accessible via le lien ci-dessous : 
+[Voir la lettre en ligne](https://AlexandraOlharan.github.io/lettre-motivation-EDJ/)
 
 Bonne lecture,
 
