@@ -10,7 +10,7 @@ Je vous présente ma lettre de motivation au format site web. Crée par mes soin
 - Mon profil
 
 ## Accedez à la lettre
-La lettre est accessible via le lien ci-dessous : 
+La lettre est accessible ici : 
 [Voir la lettre en ligne](https://AlexandraOlharan.github.io/lettre-motivation-EDJ/)
 
 Bonne lecture,
